@@ -7,6 +7,6 @@ This repo tracks lc practice and notes
 - solution approaches
 - reflection
 
-#Language 
+# Language 
 Java for now
 
